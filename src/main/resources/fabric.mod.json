@@ -11,10 +11,7 @@
   "environment": "*",
   "entrypoints": {
     "client": [
-      "com.aerohide.seediterator.client.SeediteratorClient"
-    ],
-    "main": [
-      "com.aerohide.seediterator.Seediterator"
+      "com.aeroshide.seediterator.Seediterator"
     ]
   },
   "mixins": [
