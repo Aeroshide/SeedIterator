@@ -1,4 +1,5 @@
 # SeedIterator
+![Screenshot_7229](https://github.com/user-attachments/assets/2a8a939b-1e19-4857-bdc9-cbfe96da8a55)
 
 A mod that iterates seeds to be generated from a seed list. Depends on Atum and SpeedrunAPI. Download with [ModCheck](https://github.com/tildejustin/modcheck/releases/tag/3.0.3)
 
